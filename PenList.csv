@@ -1,0 +1,5 @@
+name,id,brand,color,name,priceMarker,numMarkers
+MarkerPen,0-1b,lanos,purple,MarkerPen,4,3
+name,id,brand,color,numPens,numPencils,numErasers
+SchoolPen,0-1a,merc,black,3,4,5
+,,,,,
